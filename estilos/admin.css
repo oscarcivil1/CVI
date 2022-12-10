@@ -1,0 +1,15 @@
+.navbar, .card-header{
+    background-color: #2DCC70 !important;
+    
+}
+.navbar-brand, .nav-link{
+    color: white !important;
+}
+.card .nav-link[id="pestana1"]{
+    background-color:rgb(54, 241, 94) !important;
+    color: blue;
+    border-color: rgb(54, 241, 94) !important;
+}
+.card{
+    background-color:rgb(54, 241, 94) !important;
+}
